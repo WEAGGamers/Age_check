@@ -1,4 +1,6 @@
 import java.util.Scanner;
+class agecheck
+{
 public static void main(String args[])
 {
   Scanner x = new Scanner(System.in);
@@ -14,4 +16,5 @@ public static void main(String args[])
     }
 
 
+}
 }
